@@ -1,4 +1,4 @@
-# Timeless AI ⏳🤖
+## Timeless AI Agent: Built upon Eliza with added Grok integration to leverage real-time information for the first time.
 
 ![Untit312321led-2](https://github.com/user-attachments/assets/6e0f43f6-1fc8-452e-9044-a1d6e48ced5d)
 
