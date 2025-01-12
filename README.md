@@ -5,9 +5,10 @@
 <div align="center">
 
 📖 [TWITTER-GROK-CLIENT REPOSITORY](https://timelessai.github.io/docs)
-X: https:x.com/timelessAIs
 
 </div>
+
+Twitter: https://x.com/timelessAIs
 
 ## Overview
 
