@@ -4,7 +4,8 @@
 
 <div align="center">
 
-📖 [TWITTER-GROK-CLIENT](https://timelessai.github.io/docs)
+📖 [TWITTER-GROK-CLIENT REPOSITORY](https://timelessai.github.io/docs)
+X: https:x.com/timelessAIs
 
 </div>
 
