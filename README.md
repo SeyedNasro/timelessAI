@@ -1,18 +1,12 @@
 # Timeless AI ⏳🤖
 
-<div align="center">
-  <img src="./docs/static/img/timeless_banner.jpg" alt="Timeless AI Banner" width="100%" />
-</div>
+![Uploading Untit312321led-2.png…]()
 
 <div align="center">
 
 📖 [TWITTER-GROK-CLIENT](https://timelessai.github.io/docs)
 
-## 🚩 Overview
-
-
-
-## ✨ Features
+## Overview
 
 - 🛠️ Seamless real-time data access with Grok integration
 - 🔗 Twitter, Discord, and Telegram connectors
@@ -23,11 +17,7 @@
 - ☁️ Supports various models: Grok, Llama, OpenAI, Anthropic, and more
 - 📦 Hassle-free deployment
 
-## 🎥 Video Tutorials
-
-[AI Agent Development Series](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
-
-## 🎯 Use Cases
+## Use Cases
 
 - 🤔 Real-time trading insights
 - 🤖 Advanced chatbot with real time information leveraging Grok
